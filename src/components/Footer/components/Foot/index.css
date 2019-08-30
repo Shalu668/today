@@ -1,0 +1,11 @@
+.fo {
+    width: 50px;
+    height: 50px;
+    background:yellow;
+    margin: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border: 2px solid red;
+  }
